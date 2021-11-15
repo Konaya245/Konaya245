@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Konaya245
 - 👀 I’m interested in using some other blokes code
 - 🌱 I’m currently learning Bachelor's Degree in IT
-- 💞️ I’m looking to collaborate on I hate it here...
+- 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me Glitxz#7161 on dc
 
 <!---
