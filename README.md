@@ -2,7 +2,7 @@
 - 👀 I’m interested in using some other blokes code
 - 🌱 I’m currently learning Bachelor's Degree in IT
 - 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me Glitxz#7161 on dc
+- 📫 How to reach me Glitxz#7161 on discord
 
 <!---
 Konaya245/Konaya245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
