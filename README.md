@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on experiment projects for fun on my spare time.
 - 📫 How to reach me Glitxz#7161 on discord or my email in bio
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konaya245&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konaya245&layout=compact&langs_count=10)
 
 <!---
 Konaya245/Konaya245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
