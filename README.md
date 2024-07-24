@@ -1,10 +1,20 @@
-- 👋 Hi, I’m Muhammad Zaidi bin Abdul Razak aka @Konaya245  
-- 👀 I’m interested in information/cyber-security holistically, currently focusing on red-side
-- 🌱 I’m currently learning Flutter Mobile Development and tryhackme.com   
-- 💞️ I’m looking to collaborate on experiment projects for fun on my spare time.
-- 📫 How to reach me Glitxz#7161 on discord or my email in bio
+### Hallo, wilkommen 👋
+<!----
+ 💼 Currently working as 📖
+-----> 
+- 🌱 Currently learning..
+  - Web Design & Development
+  - Security/Pen-testing
+- 📜 Interests include..
+  - Web Application Security
+  - Mobile Application Development
+  - Game modding/automation for games
+  - Anything life throws at me.
+- 📫 Fastest way to teach me is on Discord @ `darkxglitz`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konaya245&layout=compact&langs_count=10)
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konaya245&layout=compact&langs_count=10" /> 
+<!---- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Konaya245&show_icons=true" /> ----->
 
 <!---
 Konaya245/Konaya245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
