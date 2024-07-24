@@ -10,6 +10,7 @@
   - Mobile Application Development
   - Game modding/automation for games
   - Anything life throws at me.
+- 🏛️ Avatar is from Konata Izumi from [Lucky Star](https://www.youtube.com/watch?v=FzCcS1Lez88)
 - 📫 Fastest way to teach me is on Discord @ `darkxglitz`
 
 
